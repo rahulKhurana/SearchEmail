@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-04-07T22:48:17Z" name="Default suite" finished-at="2019-04-07T22:52:10Z" duration-ms="233094">
+    <groups>
+    </groups>
+    <test started-at="2019-04-07T22:48:17Z" name="Default test" finished-at="2019-04-07T22:52:10Z" duration-ms="233094">
+      <class name="testscripts.HomePageTests">
+        <test-method is-config="true" signature="initReport()[pri:0, instance:testscripts.HomePageTests@fd07cbb]" started-at="2019-04-07T22:48:17Z" name="initReport" finished-at="2019-04-07T22:48:17Z" duration-ms="179" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initReport -->
+        <test-method is-config="true" signature="init()[pri:0, instance:testscripts.HomePageTests@fd07cbb]" started-at="2019-04-07T22:48:17Z" name="init" finished-at="2019-04-07T22:48:22Z" duration-ms="4465" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="searchAndDownload()[pri:0, instance:testscripts.HomePageTests@fd07cbb]" started-at="2019-04-07T22:48:22Z" name="searchAndDownload" finished-at="2019-04-07T22:52:10Z" duration-ms="228602" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchAndDownload -->
+        <test-method is-config="true" signature="finishReport()[pri:0, instance:testscripts.HomePageTests@fd07cbb]" started-at="2019-04-07T22:52:10Z" name="finishReport" finished-at="2019-04-07T22:52:11Z" duration-ms="619" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finishReport -->
+      </class> <!-- testscripts.HomePageTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
